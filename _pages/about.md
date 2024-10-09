@@ -7,6 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        My research interests span computer architecture, machine learning systems (MLSys), machine learning for systems, efficient deep learning (LLM) inference, heterogeneous systems, FPGA-based accelerators, and compilers. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures.
+    </p>
+</body>
+</html>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
