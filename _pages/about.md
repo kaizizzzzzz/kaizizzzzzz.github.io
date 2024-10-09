@@ -18,11 +18,6 @@ redirect_from:
         }
     </style>
 </head>
-<body>
-    <p>
-        My research interests span computer architecture, machine learning systems (MLSys), machine learning for systems, efficient deep learning (LLM) inference, heterogeneous systems, FPGA-based accelerators, and compilers. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures.
-    </p>
-</body>
 </html>
 
 
@@ -90,7 +85,7 @@ vectorized processing and sparsity to improve the efficiency of GPU execution. W
 <!-- # 💻 Internships
 - *2023.06 - 2020.08*, [Shukun Technology](https://careverse.com/), Shanghai, China.
 - *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China. --><!DOCTYPE html>
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
