@@ -66,22 +66,23 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 <!-- # 💻 Internships
 - *2023.06 - 2020.08*, [Shukun Technology](https://careverse.com/), Shanghai, China.
 - *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China. --><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .internship-entry {
+        .entry {
             display: flex;
             align-items: center;
-            margin-bottom: 10px;
+            margin-bottom: 20px;
         }
-        .internship-icon {
-            width: 50px;
-            height: 50px;
-            margin-right: 15px;
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-right: 20px;
         }
-        .internship-info {
+        .info {
             flex-grow: 1;
         }
     </style>
@@ -90,19 +91,22 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 
 <h2>💻 Internships</h2>
 
-<div class="internship-entry">
-    <img src="shukun-icon.png" alt="Shukun Technology" class="internship-icon">
-    <div class="internship-info">
-        <p><strong>2023.06 - 2020.08</strong>, <a href="https://careverse.com/">Shukun Technology</a>, Shanghai, China.</p>
+<div class="entry">
+    <img src="shukun-logo.png" alt="Shukun Technology" class="logo">
+    <div class="info">
+        <strong>Shukun Technology</strong>, Shanghai, China <br>
+        June 2023 - August 2023
     </div>
 </div>
 
-<div class="internship-entry">
-    <img src="nio-icon.png" alt="NIO" class="internship-icon">
-    <div class="internship-info">
-        <p><strong>2023.02 - 2020.06</strong>, <a href="https://www.nio.com/?noredirect=">NIO</a>, Shanghai, China.</p>
+<div class="entry">
+    <img src="nio-logo.png" alt="NIO" class="logo">
+    <div class="info">
+        <strong>NIO</strong>, Shanghai, China <br>
+        February 2023 - June 2023
     </div>
 </div>
 
 </body>
 </html>
+
