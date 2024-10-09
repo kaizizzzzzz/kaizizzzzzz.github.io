@@ -33,7 +33,7 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SmoothE: Differentiable E-Graph Extraction](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
 
 <a href="https://www.csl.cornell.edu/~yc2632/">Yaohui Cai</a>, <strong style="font-size:1.2em;">Kaixin Yang, <a href="https://chenhui1016.github.io/">Chenhui Deng</a>, <a href="https://ycunxi.github.io/cunxiyu/">Cunxi Yu</a>, <a href="https://www.csl.cornell.edu/~zhiruz/">Zhiru Zhang</a>
 
