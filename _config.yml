@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaixin(Kyle) Yang's Homepage"
-description              : 
+description              :  Research Intern @ <a href="https://zhang.ece.cornell.edu/">Cornell Zhang's Group</a>
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaixin(Kyle) Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Cornell University"
+  bio              : "ECE@Cornell University"
   location         : "Ithaca, NY"
   employer         :
   pubmed           : 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/kaizizzzzzz
+  github           : "kaizizzzzzz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kaixin-yang-7a5876289/"
+  linkedin         : "Kaixin (Kyle) Yang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
