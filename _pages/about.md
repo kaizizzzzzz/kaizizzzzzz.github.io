@@ -63,7 +63,7 @@ International Conference on Architectural Support for Programming Languages and 
 - Implement SmoothE in PyTorch and further introduce a set of performance optimization techniques to exploit
 vectorized processing and sparsity to improve the efficiency of GPU execution. We also introduce seed batching, which runs a batch of optimizations with different random seeds in parallel, improving both solution quality and GPU utilization.
 <!-- [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
+<!-- </div> -->
 [**Code**]- To be open-sourced soon. 
 </div>
 </div>
