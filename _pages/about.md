@@ -30,12 +30,13 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
 
-<a href="https://www.csl.cornell.edu/~yc2632/">Yaohui Cai</a>, <strong style="font-size:1.2em;">Kaixin Yang, <a href="https://chenhui1016.github.io/">Chenhui Deng</a>, <a href="https://ycunxi.github.io/cunxiyu/">Cunxi Yu</a>, <a href="https://www.csl.cornell.edu/~zhiruz/">Zhiru Zhang</a>
+<a href="https://www.csl.cornell.edu/~yc2632/">Yaohui Cai</a>, <strong style="font-size:1.0em;">Kaixin Yang</strong>, <a href="https://chenhui1016.github.io/">Chenhui Deng</a>, <a href="https://ycunxi.github.io/cunxiyu/">Cunxi Yu</a>, <a href="https://www.csl.cornell.edu/~zhiruz/">Zhiru Zhang</a>
+
 
 <!-- [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Code**]
