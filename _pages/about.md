@@ -39,7 +39,7 @@ I am actively seeking a <u>Ph.D.</u> position for <u>Fall 2025</u> to continue a
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our Paper SmoothE is conditionally accepted by ASPLOS'25! 
+<!-- - *2024.10*: &nbsp;🎉🎉 Our Paper SmoothE is conditionally accepted by ASPLOS'25!  -->
 <!-- - *2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -47,7 +47,7 @@ I am actively seeking a <u>Ph.D.</u> position for <u>Fall 2025</u> to continue a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
+<!-- [SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
 
 <a href="https://www.csl.cornell.edu/~yc2632/">Yaohui Cai</a>, <strong style="font-size:1.0em;">Kaixin Yang</strong>, <a href="https://chenhui1016.github.io/">Chenhui Deng</a>, <a href="https://ycunxi.github.io/cunxiyu/">Cunxi Yu</a>, <a href="https://www.csl.cornell.edu/~zhiruz/">Zhiru Zhang</a>
 
@@ -59,7 +59,7 @@ International Conference on Architectural Support for Programming Languages and 
 vectorized processing and sparsity to improve the efficiency of GPU execution. We also introduce seed batching, which runs a batch of optimizations with different random seeds in parallel, improving both solution quality and GPU utilization.
 <!-- [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- </div> -->
-[**Code**]- To be open-sourced soon. 
+[**Code**]- To be open-sourced soon.  -->
 </div>
 </div>
 
@@ -74,7 +74,7 @@ vectorized processing and sparsity to improve the efficiency of GPU execution. W
 - *2023.08 - 2024.06 *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2019.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Experience
+# 💼 Experience
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
