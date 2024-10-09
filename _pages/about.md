@@ -30,7 +30,7 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
@@ -47,8 +47,9 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020-2021 & 2021-2022* Second Class Scholarship for Academic Excellence.
+
+- *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
 
 # 📖 Educations
 - *2023.08 - 2024.06 *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
