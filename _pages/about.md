@@ -63,6 +63,46 @@ I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2023.06 - 2020.08*, [Shukun Technology](https://careverse.com/), Shanghai, China.
-- *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China.
+- *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China. --><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .internship-entry {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .internship-icon {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+        }
+        .internship-info {
+            flex-grow: 1;
+        }
+    </style>
+</head>
+<body>
+
+<h2>💻 Internships</h2>
+
+<div class="internship-entry">
+    <img src="shukun-icon.png" alt="Shukun Technology" class="internship-icon">
+    <div class="internship-info">
+        <p><strong>2023.06 - 2020.08</strong>, <a href="https://careverse.com/">Shukun Technology</a>, Shanghai, China.</p>
+    </div>
+</div>
+
+<div class="internship-entry">
+    <img src="nio-icon.png" alt="NIO" class="internship-icon">
+    <div class="internship-info">
+        <p><strong>2023.02 - 2020.06</strong>, <a href="https://www.nio.com/?noredirect=">NIO</a>, Shanghai, China.</p>
+    </div>
+</div>
+
+</body>
+</html>
