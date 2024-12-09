@@ -98,7 +98,7 @@ International Conference on Architectural Support for Programming Languages and 
 
 # 📖 Educations
 <div class="entry">
-    <img src="images/Cornell.png" alt="Cornell University" class="logo" style="width: 50px; height: 50px;">
+    <img src="images/Cornell.png" alt="Cornell University" class="logo" style="width: 80px; height: 80px;">
     <div class="info">
         <strong>Cornell University</strong>, Ithaca, New York, United States <br>
         Aug 2023 - May 2024 <br>
@@ -108,7 +108,7 @@ International Conference on Architectural Support for Programming Languages and 
 </div>
 
 <div class="entry">
-    <img src="images/BJTU.png" alt="Beijing Jiaotong University" class="logo" style="width: 50px; height: 50px;">
+    <img src="images/BJTU.png" alt="Beijing Jiaotong University" class="logo" style="width: 80px; height: 80px;">
     <div class="info">
         <strong>Beijing Jiaotong University</strong>, Beijing, China <br>
         Sep 2019 - June 2023 <br>
@@ -157,7 +157,7 @@ International Conference on Architectural Support for Programming Languages and 
 # 💻 Internships
 
 <div class="entry">
-    <img src="images/Careverse.jpg" alt="Careverse Technology" class="logo" style="width: 100px; height: 50px;">
+    <img src="images/Careverse.jpg" alt="Careverse Technology" class="logo" style="width: 80px; height: 50px;">
     <div class="info">
         <strong>Careverse Technology</strong>, Shanghai, China <br>
         June 2023 - August 2023
@@ -165,7 +165,7 @@ International Conference on Architectural Support for Programming Languages and 
 </div>
 
 <div class="entry">
-    <img src="images/Nio.png" alt="NIO" class="logo" style="width: 100px; height: 50px;" >
+    <img src="images/Nio.png" alt="NIO" class="logo" style="width: 80px; height: 50px;" >
     <div class="info">
         <strong>NIO</strong>, Shanghai, China <br>
         February 2023 - June 2023
