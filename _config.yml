@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaixin(Kyle) Yang's Homepage"
+title                    : "Kaixin Yang's Homepage"
 description              :  Research Intern @ <a href="https://zhang.ece.cornell.edu/">Cornell Zhang's Group</a>
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
