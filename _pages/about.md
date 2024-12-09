@@ -62,7 +62,9 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our Paper SmoothE is accepted by ASPLOS 2025! 
+<div style="font-size: 18px;">
+    - *2024.10*: &nbsp;🎉🎉 Our Paper SmoothE is accepted by ASPLOS 2025! 
+</div>
 <!-- - *2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -119,21 +121,11 @@ International Conference on Architectural Support for Programming Languages and 
     <div class="info">
         <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
         May 2024 - Present, Full time, On-site <br>
+        Aug 2023 - May 2024, Part time, On-site <br>
         Position: Research Intern <br>
         Advisor: Prof. Zhiru Zhang
     </div>
 </div>
-
-<div class="entry">
-    <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
-    <div class="info">
-        <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
-        Aug 2023 - May 2024, Part time, On-site <br>
-        Position: Research Student <br>
-        Advisor: Prof. Zhiru Zhang
-    </div>
-</div>
-
 ---
 
 <!-- <html lang="en">
