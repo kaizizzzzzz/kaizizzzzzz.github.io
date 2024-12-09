@@ -52,11 +52,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="font-size: 18px;">
-    I am a master's student in the Electrical & Computer Engineering department at Cornell University, where I have the privilege of being advised by <a href="https://www.csl.cornell.edu/~zhiruz/">Prof. Zhiru Zhang</a>.
-
-    <!-- My research interests span <u>computer architecture</u>, <u>machine learning systems (MLSys)</u>, <u>machine learning for systems</u>, <u>efficient deep learning (LLM) inference</u>, <u>heterogeneous systems</u>, <u>accelerators</u>, <u>FPGA</u>, and <u>compilers</u>. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures. -->
+    I am a master's student in the Electrical & Computer Engineering department at Cornell University, where I have the privilege of being advised by 
+    <a href="https://www.csl.cornell.edu/~zhiruz/">Prof. Zhiru Zhang</a>.
+    <br><br>
     My research interests span <u>computer architecture</u>, <u>machine learning systems (MLSys)</u>, <u>machine learning</u>, <u>hardware compiler</u>. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures.
-
+    <br><br>
     I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these areas of research.
 </div>
 
