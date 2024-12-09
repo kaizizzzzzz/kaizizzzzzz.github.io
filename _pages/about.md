@@ -20,6 +20,28 @@ redirect_from:
 </head>
 </html>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .entry {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-right: 20px;
+        }
+        .info {
+            flex-grow: 1;
+        }
+    </style>
+</head>
+<body>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -72,27 +94,6 @@ International Conference on Architectural Support for Programming Languages and 
 
 - *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .entry {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-        .logo {
-            width: 80px;
-            height: 80px;
-            margin-right: 20px;
-        }
-        .info {
-            flex-grow: 1;
-        }
-    </style>
-</head>
-<body>
 
 # 📖 Educations
 <div class="entry">
@@ -100,7 +101,8 @@ International Conference on Architectural Support for Programming Languages and 
     <div class="info">
         <strong>Cornell University</strong>, Ithaca, New York, United States <br>
         Aug 2023 - May 2024 <br>
-        Master of Engineering in Computer Engineering, GPA 3.96
+        Master of Engineering in Computer Engineering <br>
+        GPA 3.96
     </div>
 </div>
 
@@ -109,7 +111,8 @@ International Conference on Architectural Support for Programming Languages and 
     <div class="info">
         <strong>Beijing Jiaotong University</strong>, Beijing, China <br>
         Sep 2019 - June 2023 <br>
-        Bachelor of Engineering in Mechatronics, Major GPA 92.4 <br>
+        Bachelor of Engineering in Mechatronics <br>
+        Major GPA 92.4 <br>
         Outstanding Thesis Award
     </div>
 </div>
