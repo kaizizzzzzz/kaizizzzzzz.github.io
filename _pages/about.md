@@ -170,7 +170,8 @@ International Conference on Architectural Support for Programming Languages and 
     <img src="images/Careverse.jpg" alt="Careverse Technology" class="logo" style="width: 80px; height: 50px;">
     <div class="info">
         <strong>Careverse Technology</strong>, Shanghai, China <br>
-        June 2023 - August 2023
+        June 2023 - August 2023 <br>
+        Machine Learning Engineer
     </div>
 </div>
 
@@ -178,7 +179,8 @@ International Conference on Architectural Support for Programming Languages and 
     <img src="images/Nio.png" alt="NIO" class="logo" style="width: 80px; height: 50px;" >
     <div class="info">
         <strong>NIO</strong>, Shanghai, China <br>
-        February 2023 - June 2023
+        February 2023 - June 2023 <br>
+        Embedded Software Engineer
     </div>
 </div>
 
