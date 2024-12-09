@@ -64,7 +64,7 @@ redirect_from:
 # 🔥 News
 <div style="font-size: 18px;">
     <ul>
-        <li>*2024.10*: 🎉🎉 Our Paper SmoothE is accepted by ASPLOS 2025!</li>
+        <li>2024.10: 🎉🎉 Our Paper SmoothE is accepted by ASPLOS 2025!</li>
     </ul>
 </div>
 <!-- <div style="font-size: 18px;">
