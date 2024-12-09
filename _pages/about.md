@@ -94,6 +94,7 @@ International Conference on Architectural Support for Programming Languages and 
 
 - *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
 
+---
 
 # 📖 Educations
 <div class="entry">
