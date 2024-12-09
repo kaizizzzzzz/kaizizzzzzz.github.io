@@ -106,8 +106,7 @@ International Conference on Architectural Support for Programming Languages and 
         <strong>Beijing Jiaotong University</strong>, Beijing, China <br>
         Sep 2019 - June 2023 <br>
         Bachelor of Engineering in Mechatronics <br>
-        Major GPA: 92.4 <br>
-        Outstanding Thesis Award
+        Major GPA: 92.4,  Outstanding Thesis Award <br>
     </div>
 </div>
 
@@ -118,9 +117,8 @@ International Conference on Architectural Support for Programming Languages and 
     <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
     <div class="info">
         <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
-        May 2024 - Present <br>
-        Full time <br>
-        Research Intern <br>
+        May 2024 - Present, Full time, On-site <br>
+        Position: Research Intern <br>
         Advisor: Prof. Zhiru Zhang
     </div>
 </div>
@@ -130,8 +128,8 @@ International Conference on Architectural Support for Programming Languages and 
     <div class="info">
         <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
         Aug 2023 - May 2024 <br>
-        Part time <br>
-        Research Student <br>
+        May 2024 - Present, Part time, On-site <br>
+        Position: Research Student <br>
         Advisor: Prof. Zhiru Zhang
     </div>
 </div>
