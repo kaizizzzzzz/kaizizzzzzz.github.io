@@ -103,7 +103,7 @@ International Conference on Architectural Support for Programming Languages and 
         <strong>Cornell University</strong>, Ithaca, New York, United States <br>
         Aug 2023 - May 2024 <br>
         Master of Engineering in Computer Engineering <br>
-        GPA 3.96
+        GPA: 3.96
     </div>
 </div>
 
@@ -113,7 +113,7 @@ International Conference on Architectural Support for Programming Languages and 
         <strong>Beijing Jiaotong University</strong>, Beijing, China <br>
         Sep 2019 - June 2023 <br>
         Bachelor of Engineering in Mechatronics <br>
-        Major GPA 92.4 <br>
+        Major GPA: 92.4 <br>
         Outstanding Thesis Award
     </div>
 </div>
