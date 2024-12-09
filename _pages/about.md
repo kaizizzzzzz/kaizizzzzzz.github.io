@@ -98,9 +98,19 @@ International Conference on Architectural Support for Programming Languages and 
 <div class="entry">
     <img src="images/Cornell.png" alt="Cornell University" class="logo" style="width: 50px; height: 50px;">
     <div class="info">
-        <strong>Cornell Universityt</strong>, Ithaca, New York, United States <br>
+        <strong>Cornell University</strong>, Ithaca, New York, United States <br>
         Aug 2023 - May 2024 <br>
-        Master of Engineering, GPA 3.96
+        Master of Engineering in Computer Engineering, GPA 3.96
+    </div>
+</div>
+
+<div class="entry">
+    <img src="images/BJTU.png" alt="Beijing Jiaotong University" class="logo" style="width: 50px; height: 50px;">
+    <div class="info">
+        <strong>Beijing Jiaotong University</strong>, Beijing, China <br>
+        Sep 2019 - June 2023 <br>
+        Bachelor of Engineering in Mechatronics, Major GPA 92.4 <br>
+        Outstanding Thesis Award
     </div>
 </div>
 
