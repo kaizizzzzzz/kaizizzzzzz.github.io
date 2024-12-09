@@ -35,7 +35,7 @@ I am a master's student in the Electrical & Computer Engineering department at C
 <!-- My research interests span <u>computer architecture</u>, <u>machine learning systems (MLSys)</u>, <u>machine learning for systems</u>, <u>efficient deep learning (LLM) inference</u>, <u>heterogeneous systems</u>, <u>accelerators</u>, <u>FPGA</u>, and <u>compilers</u>. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures. -->
 My research interests span <u>computer architecture</u>, <u>machine learning systems (MLSys)</u>, <u>machine learning</u>, <u>hardware compiler</u>. I am passionate about pushing the boundaries of hardware-software co-design for efficient AI and system architectures.
 
-I am actively seeking a <u>Ph.D.</u> position for <u>Fall 2025</u> to continue advancing these areas of research.
+I am actively seeking a Ph.D. position for Fall 2025 to continue advancing these areas of research.
 
 
 # 🔥 News
@@ -60,7 +60,7 @@ International Conference on Architectural Support for Programming Languages and 
 <!-- </div> -->
 
 [**Code**] To be open-sourced soon.
-  
+
 [**Paper**] Coming up soon!
 </div>
 </div>
