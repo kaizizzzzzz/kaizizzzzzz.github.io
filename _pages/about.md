@@ -121,8 +121,27 @@ International Conference on Architectural Support for Programming Languages and 
 ---
 
 # 💼 Experience
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="entry">
+    <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
+    <div class="info">
+        <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
+        May 2024 - Present <br>
+        Full time <br>
+        Research Intern <br>
+        Advisor: Prof. Zhiru Zhang
+    </div>
+</div>
+
+<div class="entry">
+    <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
+    <div class="info">
+        <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
+        Aug 2023 - May 2024 <br>
+        Part time <br>
+        Research Student <br>
+        Advisor: Prof. Zhiru Zhang
+    </div>
+</div>
 
 ---
 
