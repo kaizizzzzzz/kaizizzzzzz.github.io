@@ -149,6 +149,22 @@ International Conference on Architectural Support for Programming Languages and 
 <body> -->
 
 # 💻 Internships
+<style>
+    .entry {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px; /* Add some spacing between entries */
+    }
+    .logo {
+        width: 80px;
+        height: 50px;
+        margin-right: 20px; /* Add space between the logo and text */
+        object-fit: contain; /* Ensures the image fits well */
+    }
+    .info {
+        flex-grow: 1; /* Makes the text take up remaining space */
+    }
+</style>
 
 <div class="entry">
     <img src="images/Careverse.jpg" alt="Careverse Technology" class="logo" style="width: 80px; height: 50px;">
