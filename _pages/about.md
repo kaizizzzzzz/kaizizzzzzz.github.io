@@ -126,7 +126,29 @@ International Conference on Architectural Support for Programming Languages and 
 
 ---
 
-# 💻 Internships
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .entry {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-right: 20px;
+        }
+        .info {
+            flex-grow: 1;
+        }
+    </style>
+</head>
+<body>
+
+<h2>💻 Internships <h2>
 
 <div class="entry">
     <img src="images/Careverse.jpg" alt="Careverse Technology" class="logo" style="width: 80px; height: 50px;">
