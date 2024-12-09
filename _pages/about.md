@@ -72,22 +72,6 @@ International Conference on Architectural Support for Programming Languages and 
 
 - *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
 
-# 📖 Educations
-- *2023.08 - 2024.06 *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💼 Experience
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2023.06 - 2020.08*, [Shukun Technology](https://careverse.com/), Shanghai, China.
-- *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China. --><!DOCTYPE html>
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -109,6 +93,50 @@ International Conference on Architectural Support for Programming Languages and 
     </style>
 </head>
 <body>
+
+# 📖 Educations
+<div class="entry">
+    <img src="images/Cornell.png" alt="Cornell University" class="logo" style="width: 100px; height: 100px;">
+    <div class="info">
+        <strong>Cornell Universityt</strong>, Ithaca, New York, United States <br>
+        Aug 2023 - May 2024
+        Master of Engineering, GPA 3.96
+    </div>
+</div>
+
+# 💼 Experience
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+<!-- # 💻 Internships
+- *2023.06 - 2020.08*, [Shukun Technology](https://careverse.com/), Shanghai, China.
+- *2023.02 - 2020.06*, [NIO](https://www.nio.com/?noredirect=), Shanghai, China. --><!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
+<!-- <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .entry {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-right: 20px;
+        }
+        .info {
+            flex-grow: 1;
+        }
+    </style>
+</head>
+<body> -->
 
 <h2>💻 Internships</h2>
 
