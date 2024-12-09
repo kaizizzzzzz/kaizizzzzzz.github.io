@@ -89,13 +89,6 @@ International Conference on Architectural Support for Programming Languages and 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2020-2021 & 2021-2022* Second Class Scholarship for Academic Excellence.
-
-- *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
-
----
-
 # 📖 Educations
 <div class="entry">
     <img src="images/Cornell.png" alt="Cornell University" class="logo" style="width: 80px; height: 80px;">
@@ -120,7 +113,7 @@ International Conference on Architectural Support for Programming Languages and 
 
 ---
 
-# 💼 Experience
+# 💼 Research Experience
 <div class="entry">
     <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
     <div class="info">
@@ -202,5 +195,13 @@ International Conference on Architectural Support for Programming Languages and 
         Embedded Software Engineer
     </div>
 </div>
+
+
+# 🎖 Honors and Awards
+- *2020-2021 & 2021-2022* Second Class Scholarship for Academic Excellence.
+
+- *2020-2021 & 2021-2022* Outstanding Student of the Acedamic Year 2020-2021.
+
+---
 
 
