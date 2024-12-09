@@ -194,6 +194,7 @@ International Conference on Architectural Support for Programming Languages and 
     </div>
 </div>
 
+---
 
 # 🎖 Honors and Awards
 - *2020-2021 & 2021-2022* Second Class Scholarship for Academic Excellence.
