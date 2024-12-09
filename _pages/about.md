@@ -44,7 +44,7 @@ I am actively seeking a <u>Ph.D.</u> position for <u>Fall 2025</u> to continue a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/smoothe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmoothE: Differentiable E-Graph Extraction](To Appear Soon)
