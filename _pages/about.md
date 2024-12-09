@@ -127,8 +127,7 @@ International Conference on Architectural Support for Programming Languages and 
     <img src="images/CSL.png" alt="Cornell Computer System Lab" class="logo" style="width: 80px; height: 80px;">
     <div class="info">
         <strong>Cornell Computer System Lab</strong>, Ithaca, New York, United States <br>
-        Aug 2023 - May 2024 <br>
-        May 2024 - Present, Part time, On-site <br>
+        Aug 2023 - May 2024, Part time, On-site <br>
         Position: Research Student <br>
         Advisor: Prof. Zhiru Zhang
     </div>
